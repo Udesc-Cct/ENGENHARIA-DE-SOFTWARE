@@ -11,3 +11,4 @@ EXAME: 11/12/23 das 15h20-17h00
 # Trabalhos
 - [Saas](Trabalhos/PesquisaSaaSBrasileiros/SaasSOFT003.pdf)
 - [WaterFall](Trabalhos/Jogowaterfall/Game.md)
+- [Spotify](Trabalhos/Spotify/Problema.md)
